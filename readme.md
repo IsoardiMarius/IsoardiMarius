@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur un projet **Groupomania**
 
-- 🌱 J'apprend actuellement **ReactJS, NodeJS.**
+- 🌱 Je me perfectionne actuellement en **ReactJS, NodeJS.**
 
 - 💬 Ask me about **Blockchain, IA, UX, UI.**
 
