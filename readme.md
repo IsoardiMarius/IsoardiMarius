@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Isoardi Marius</h1>
 </br>
 
-- 🔭 Je travaille actuellement sur un projet **Groupomania**
+- 🔭 Je me perfectionne actuellement en **MERN** (React, NodeJs, Express, MongoDB)
 
 - 🌱 Je me perfectionne actuellement en **ReactJS, NodeJS.**
 
