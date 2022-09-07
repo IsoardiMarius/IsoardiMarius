@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋, je suis Isoardi Marius</h1>
 </br>
 
-- 🔭 Je me perfectionne actuellement en **MERN** (React, NodeJs, Express, MongoDB)
+- 🔭 Je travaille actuellement sur un réseau social d'entreprise
 
-- 🌱 Je me perfectionne actuellement en **ReactJS, NodeJS.**
+- 🌱 Je me perfectionne actuellement en **MERN** (React, NodeJs, Express, MongoDB)
 
 - 💬 Ask me about **Blockchain, IA, UX, UI.**
 
