@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur un **réseau social d'entreprise**
 
-- 🌱 Je me perfectionne actuellement en **MERN** (React, NodeJs, Express, MongoDB)
+- 🌱 Je me perfectionne actuellement en **React / Typescript / Node** 
 
 - 💬 Ask me about **Blockchain, IA, UX, UI.**
 
