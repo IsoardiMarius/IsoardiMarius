@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, je suis Isoardi Marius</h1>
 </br>
 
-- 🔭 Je travaille actuellement sur un **réseau social d'entreprise**
+- 🔭 Je travaille actuellement chez **Subclic** en tant que développeur backend.
 
 - 🌱 Je me perfectionne actuellement en **React / Typescript / Node** 
 
-- 💬 Ask me about **Blockchain, IA, UX, UI.**
+- 💬 Ask me about **Blockchain, Devops, Cyber, Web.**
 
 - 📫 Comment me contacter : **misoardi13100@gmail.com**
 
