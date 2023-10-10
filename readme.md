@@ -1,9 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Isoardi Marius</h1>
 </br>
 
-- 🔭 Je travaille actuellement chez **Subclic** en tant que développeur backend.
-
-- 🌱 Je me perfectionne actuellement en **React / Typescript / Node** 
+- 🔭 Je travaille actuellement chez **Hexacoffre** en tant que développeur fullstack.
 
 - 💬 Ask me about **Blockchain, Devops, Cyber, Web.**
 
