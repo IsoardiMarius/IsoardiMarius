@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bonjour, je suis Isoardi Marius</h1>
 <p align="center">
-Développeur et expert DevOps, je conçois des solutions digitales sur mesure qui allient innovation et performance. Disponible pour donner vie à vos projets freelance dès 250€ par jour. Construisons ensemble l'avenir de votre entreprise.
+Développeur et expert DevOps, je conçois des solutions digitales sur mesure qui allient innovation et performance. Disponible pour donner vie à vos projets freelance dès aujourd'hui Construisons ensemble l'avenir de votre entreprise.
 </p>
 <p align="center">
   🔭 Actuellement, en poste chez <strong>Hexacoffre</strong> en tant que développeur fullstack.
