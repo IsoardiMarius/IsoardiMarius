@@ -15,7 +15,7 @@ Développeur et expert DevOps, je conçois des solutions digitales sur mesure qu
 </p>
 <p align="center">
   🌐 <strong>Mon portfolio :</strong> <br/>
-  <a href="https://isoardimarius.github.io/portfolio/skills?q=" target="_blank">isoardimarius.github.io/portfolio/?q=</a>
+  <a href="https://isoardimarius.github.io/portfolio-V2=" target="_blank">isoardimarius.github.io/portfolio/?q=</a>
 </p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
