@@ -10,7 +10,7 @@ Développeur et expert DevOps, je conçois des solutions digitales sur mesure qu
 </p>
 <p align="center">
   📫 <strong>Contactez-moi :</strong> <br/>
-  <a href="mailto:misoardi13100@outlook.fr">misoardi13100@outlook.fr</a> <br/>
+  <a href="mailto:isoardi.m@outlook.com">isoardi.m@outlook.com</a> <br/>
   <a href="https://www.linkedin.com/in/marius-isoardi-057338233/" target="_blank">LinkedIn</a>
 </p>
 <p align="center">
