@@ -13,7 +13,7 @@ J'accorde aussi une vraie importance à la documentation et à la passation. Pou
 - Une factory de VM Ubuntu avec **Ansible, Packer et VMware vSphere**, pour automatiser le provisioning, la configuration et le décommissionnement.
 - Le cycle de vie des serveurs : **IPAM/DNS, Linux/LVM, certificats, conformité, sécurité et supervision**.
 - Une plateforme **GitLab self-managed** et un cluster **HashiCorp Vault HA**, avec gestion des accès, des secrets et des sauvegardes.
-- Une infrastructure **Moodle sur GCP** déployée avec Terraform : Cloud SQL PostgreSQL, Redis, Filestore, VMs et connectivité privée.
+- Une infrastructure **sur GCP** déployée avec Terraform : Cloud SQL PostgreSQL, Redis, Filestore, VMs et connectivité privée.
 - Les sujets de **sauvegarde, restauration et reprise après sinistre**.
 
 ## Stack
